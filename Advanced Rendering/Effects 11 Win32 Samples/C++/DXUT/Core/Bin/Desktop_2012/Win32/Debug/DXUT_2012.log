@@ -1,0 +1,27 @@
+﻿Build started 09/04/2016 15:59:34.
+     1>Project "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Core\DXUT_2012.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _LIB /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yc"DXUT.h" /Fp"Bin\Desktop_2012\Win32\Debug\DXUT.pch" /Fo"Bin\Desktop_2012\Win32\Debug\\" /Fd"Bin\Desktop_2012\Win32\Debug\DXUT.pdb" /Gd /TP /analyze- /errorReport:prompt  DXUT.cpp
+         DXUT.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _LIB /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Bin\Desktop_2012\Win32\Debug\DXUT.pch" /Fo"Bin\Desktop_2012\Win32\Debug\\" /Fd"Bin\Desktop_2012\Win32\Debug\DXUT.pdb" /Gd /TP /analyze- /errorReport:prompt  DXUTDevice11.cpp DXUTmisc.cpp DXErr.cpp DDSTextureLoader.cpp Screengrab.cpp WICTextureLoader.cpp
+         DXUTDevice11.cpp
+         DXUTmisc.cpp
+         DXErr.cpp
+         DDSTextureLoader.cpp
+         Screengrab.cpp
+         WICTextureLoader.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Bin\Desktop_2012\Win32\Debug\DXUT.lib" /NOLOGO Bin\Desktop_2012\Win32\Debug\DXUT.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTDevice11.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTmisc.obj
+         Bin\Desktop_2012\Win32\Debug\DXErr.obj
+         Bin\Desktop_2012\Win32\Debug\DDSTextureLoader.obj
+         Bin\Desktop_2012\Win32\Debug\Screengrab.obj
+         Bin\Desktop_2012\Win32\Debug\WICTextureLoader.obj
+         DXUT_2012.vcxproj -> C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Core\Bin\Desktop_2012\Win32\Debug\DXUT.lib
+     1>Done Building Project "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Core\DXUT_2012.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.73

@@ -1,0 +1,22 @@
+﻿Build started 13/04/2016 18:23:48.
+     1>Project "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\BasicHLSLFX11\BasicHLSLFX11_2012.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\Effects11\inc /I..\Effects11\Binary /I..\DXUT\Core /I..\DXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yc"DXUT.h" /Fp"Debug\BasicHLSLFX11.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  BasicHLSLFX11.cpp
+         BasicHLSLFX11.cpp
+     1>c:\users\508896\08968 hlsl\effects 11 win32 samples\c++\basichlslfx11\basichlslfx11.cpp(209): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\508896\08968 hlsl\effects 11 win32 samples\c++\basichlslfx11\basichlslfx11.cpp(214): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\508896\08968 hlsl\effects 11 win32 samples\c++\basichlslfx11\basichlslfx11.cpp(388): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\508896\08968 hlsl\effects 11 win32 samples\c++\basichlslfx11\basichlslfx11.cpp(399): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\Debug\BasicHLSLFX11.exe" /INCREMENTAL /NOLOGO d3dcompiler.lib dxguid.lib winmm.lib comctl32.lib usp10.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\Debug\BasicHLSLFX11.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\Debug\BasicHLSLFX11.lib" /MACHINE:X86 /SAFESEH  Debug\BasicHLSLFX11.res
+         Debug\BasicHLSLFX11.obj
+         "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Core\Bin\Desktop_2012\Win32\Debug\DXUT.lib"
+         "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Optional\Bin\Desktop_2012\Win32\Debug\DXUTOpt.lib"
+         "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\Effects11\Bin\Desktop_2012\Win32\Debug\Effects11.lib"
+     1>BasicHLSLFX11.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         BasicHLSLFX11_2012.vcxproj -> C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\Debug\BasicHLSLFX11.exe
+     1>Done Building Project "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\BasicHLSLFX11\BasicHLSLFX11_2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98

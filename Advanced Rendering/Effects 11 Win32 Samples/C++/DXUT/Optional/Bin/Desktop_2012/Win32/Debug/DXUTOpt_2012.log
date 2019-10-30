@@ -1,0 +1,20 @@
+﻿Build started 09/04/2016 16:01:49.
+     1>Project "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Optional\DXUTOpt_2012.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\Core\ /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _LIB /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Bin\Desktop_2012\Win32\Debug\DXUTOpt.pch" /Fo"Bin\Desktop_2012\Win32\Debug\\" /Fd"Bin\Desktop_2012\Win32\Debug\DXUTOpt.pdb" /Gd /TP /analyze- /errorReport:prompt  DXUTgui.cpp
+         DXUTgui.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"Bin\Desktop_2012\Win32\Debug\DXUTOpt.lib" /NOLOGO Bin\Desktop_2012\Win32\Debug\DXUTcamera.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTgui.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTguiIME.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTres.obj
+         Bin\Desktop_2012\Win32\Debug\DXUTsettingsdlg.obj
+         Bin\Desktop_2012\Win32\Debug\ImeUi.obj
+         Bin\Desktop_2012\Win32\Debug\SDKmesh.obj
+         Bin\Desktop_2012\Win32\Debug\SDKmisc.obj
+         DXUTOpt_2012.vcxproj -> C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Optional\Bin\Desktop_2012\Win32\Debug\DXUTOpt.lib
+     1>Done Building Project "C:\Users\508896\08968 HLSL\Effects 11 Win32 Samples\C++\DXUT\Optional\DXUTOpt_2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.45
